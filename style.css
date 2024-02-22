@@ -40,7 +40,7 @@ section{
 #sect7{
     background-color:seashell;
 }
-h1{
+h1,h2{
     margin-left: 5%; 
     margin-right: 5%;
 }
